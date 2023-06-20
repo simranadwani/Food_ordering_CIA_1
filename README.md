@@ -80,7 +80,7 @@ Here is an example of how the CLI would look:
 * ***User Account***: 
 * ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/dcaa560b-7920-4961-8da2-423ace829d6f)
 * ***Order*** : 
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/c8a888d4-c5d9-46d7-84df-8de1f46c2dbe)
+* ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/f1880eb5-1c64-4784-85b6-a0d852606f7d)
 * ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/2d10548c-9116-4a04-bfbd-272aa6a8547a)
 * ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/4537dd37-f46b-4618-8b0f-0e021c1bdbf1)
 * ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/9a9fc276-b45a-43e2-b8c5-830e8c2b342e)
