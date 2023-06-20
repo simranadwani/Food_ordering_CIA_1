@@ -82,8 +82,8 @@ Here is an example of how the CLI would look:
 * ***Order*** : 
 * ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/f1880eb5-1c64-4784-85b6-a0d852606f7d)
 * ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/c7469a2c-ebb3-4891-835f-3cbe54d4d0cc)
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/4537dd37-f46b-4618-8b0f-0e021c1bdbf1)
-* ![image](https://github.com/HomitaGanguly/Python-CIA-1/assets/118895179/9a9fc276-b45a-43e2-b8c5-830e8c2b342e)
+* !![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/9fb84f9e-a24f-4511-97e5-cdbf116bdc87)
+
 
 
 # Thank you for viewing our project!
