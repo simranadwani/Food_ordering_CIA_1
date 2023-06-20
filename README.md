@@ -79,7 +79,7 @@ hence you can select from the options and go on to view order summary using 'vie
 Here is an example of how the CLI would look:
 * ***User Account***: ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/dcaa560b-7920-4961-8da2-423ace829d6f)
 * ***Order*** :
-* ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/f1880eb5-1c64-4784-85b6-a0d852606f7d)
+* ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/6872c30c-f0cf-4a13-9225-c4a1eee277e5)
 * ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/c7469a2c-ebb3-4891-835f-3cbe54d4d0cc)
 * ![image](https://github.com/simranadwani/Food_ordering_CIA_1/assets/118894785/9fb84f9e-a24f-4511-97e5-cdbf116bdc87)
 
